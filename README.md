@@ -37,13 +37,6 @@ I am a recent **BBA in Computer Application (BBA-CA)** graduate with a genuine c
 
 ---
 
-## 📈 GitHub Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vrushali-Nagrale&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Vrushali's GitHub Stats" height="150" />
-</p>
-
----
-
 ## 📫 Let's Connect!
 *   💼 **LinkedIn:** www.linkedin.com/in/vrushalinagrale 
 *   📊 **Maven Analytics:** https://mavenshowcase.com/profile/6831c350-9061-70d6-6e1f-9202df665482
