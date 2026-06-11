@@ -27,11 +27,11 @@ I am a recent **BBA in Computer Application (BBA-CA)** graduate with a genuine c
 *   **The Solution:** Built a demand-based pricing model in **SQL** using logic mapped in **Lucidchart** to automatically adjust ticket costs. 
 *   **The Impact:** Simulated a **₹1.9 Crore revenue lift** while maintaining a high 90.5% stadium occupancy rate, visualized in a custom **Power BI** dashboard.
 
-### 📊 [Tata Group Virtual Internship Project](#) *(Link coming soon!)*
+### 📊 Tata Group Virtual Internship Project
 *   **The Solution:** Transformed 6 million rows of multi-national retail data into an executive performance dashboard using **Power BI**.
 *   **The Impact:** Engineered deep geospatial analyses and tracked $10.6M in transaction trends to present clear solutions to senior leadership.
 
-### 🏥 [Clinical Operations: ER Bottleneck Analysis](#) *(Link coming soon!)*
+### 🏥 Clinical Operations: ER Bottleneck Analysis
 *   **The Solution:** Analyzed hospital triage, treatment, and discharge datasets to identify critical emergency room patient flow delays.
 *   **The Impact:** Engineered an operational dashboard tracking Average Length of Stay (ALOS) to optimize triage workflows.
 
@@ -45,5 +45,5 @@ I am a recent **BBA in Computer Application (BBA-CA)** graduate with a genuine c
 ---
 
 ## 📫 Let's Connect!
-*   💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
+*   💼 **LinkedIn:** www.linkedin.com/in/vrushalinagrale 
 *   📊 **Maven Analytics:** [Your Maven Profile Link Here]
