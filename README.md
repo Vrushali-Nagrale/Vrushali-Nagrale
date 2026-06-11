@@ -46,4 +46,4 @@ I am a recent **BBA in Computer Application (BBA-CA)** graduate with a genuine c
 
 ## 📫 Let's Connect!
 *   💼 **LinkedIn:** www.linkedin.com/in/vrushalinagrale 
-*   📊 **Maven Analytics:** [Your Maven Profile Link Here]
+*   📊 **Maven Analytics:** https://mavenshowcase.com/profile/6831c350-9061-70d6-6e1f-9202df665482
